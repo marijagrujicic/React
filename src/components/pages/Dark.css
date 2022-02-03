@@ -1,0 +1,40 @@
+.about_text{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.background{
+    background-image: url('background/Logo.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(16, 17, 16);
+   
+}
+
+img{
+    width: 100%;
+    object-fit: contain;
+    max-height: 300px;
+}
+
+.producers{
+    padding-top: 20px;
+    display: flex;
+    padding-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.producers_names{
+    margin-left: 210px;
+    margin-right: 220px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
